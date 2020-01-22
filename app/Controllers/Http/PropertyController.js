@@ -67,6 +67,7 @@ class PropertyController {
    * @param {Response} ctx.response
    */
   async update({ params, request, response }) {
+    //Todo
   }
 
   /**
